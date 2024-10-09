@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://qeyiqewiguju.pages.dev/sitemap.xml
